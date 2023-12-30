@@ -1,2 +1,2 @@
 # DataDiaries.github.io
-Portfolio Webiste
+Portfolio Website
